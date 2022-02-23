@@ -1,4 +1,4 @@
-<img src="/demo/image00.png" width="700">
+<img src="/demo/image00.png" width="600">
 Screw Imposter Syndrome 😒 
 
 When in doubt:
@@ -8,15 +8,18 @@ When in doubt:
 - JavaScript
 - Python
 - C#
+- Don't worry, I dabble in others. Lets keep this list short😚
 
+<img src="/demo/image01.png" width="500">
 On a Software Pilgrimage that ends in Generative Art 🤙🏽
-<img src="/demo/image01.png" width="700">
 
 **Ambitions:**
 - Machine Learning
 - Shaders
 - GPU Coding
 - Hosting a massive GPU/TPU Farm
+
+<img src="/demo/image02.jpg" width="500">
 
 **Hobbies:**
 - Music 🎵 Production
