@@ -1,6 +1,5 @@
-# hello-world
-Finally doing this. Tired of imposter syndrome 😒 
+<img src="/demo/image.png">
+### Screw Imposter Syndrome 😒 
 
-So I consider myself a Maker but as to what kind of a Maker I am, I can't really give an
-answer. I'm still trying to figure myself out. All I know is, I'm finally ready to start 
-showcasing my skills. 
+When in doubt:
+**Live. #####_Code._ Repeat.**
