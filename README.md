@@ -1,12 +1,11 @@
-<img src="/demo/TheHall.png" width="600">
+<img src="/demo/TheHall.png" width="900">
 When in doubt:
 > **Live. _Code._ Repeat.**
 
 **Main Languages:**
 - JavaScript
 - Python
-
-<img src="/demo/image01.png" width="500">
+- 
 On a Software Pilgrimage of Machine Learning and Digitography
 
 **Ambitions:**
