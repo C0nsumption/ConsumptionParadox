@@ -5,7 +5,7 @@ When in doubt:
 **Main Languages:**
 - JavaScript
 - Python
-- 
+
 On a Software Pilgrimage of Machine Learning and Digitography
 
 **Ambitions:**
